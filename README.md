@@ -4,7 +4,6 @@ Dog breeder by picture shredding
 #### Run in command line 
 ```
 pip install numpy
-pip install Pillow
 pip install opencv-python
 ```
 
