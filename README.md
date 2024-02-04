@@ -7,3 +7,7 @@ pip install numpy
 pip install Pillow
 pip install opencv-python
 ```
+
+```commandline
+python main.py
+```
